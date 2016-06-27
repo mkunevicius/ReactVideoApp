@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# ReactVideoApp
 
 Demo application built on React.js with Webpack fetching data from YouTube API.
 
